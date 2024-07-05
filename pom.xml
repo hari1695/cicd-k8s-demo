@@ -94,7 +94,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>interviewdot/cicd-k8s-demo</repository>
+					<repository>hari1695/cicd-k8s-demo</repository>
 					<tag>${project.version}</tag>
 					<buildArgs>
 						<JAR_FILE>${project.build.finalName}.jar</JAR_FILE>
